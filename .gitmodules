@@ -1,0 +1,24 @@
+[submodule "vjezba-1-tina-dragicevic"]
+	path = vjezba-1-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-1-tina-dragicevic.git
+[submodule "vjezba-2-tina-dragicevic"]
+	path = vjezba-2-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-2-tina-dragicevic.git
+[submodule "vjezba-3-tina-dragicevic"]
+	path = vjezba-3-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-3-tina-dragicevic.git
+[submodule "vjezba-4-tina-dragicevic"]
+	path = vjezba-4-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-4-tina-dragicevic.git
+[submodule "vjezba-5-tina-dragicevic"]
+	path = vjezba-5-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-5-tina-dragicevic.git
+[submodule "vjezba-6-tina-dragicevic"]
+	path = vjezba-6-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-6-tina-dragicevic.git
+[submodule "vjezba-7-tina-dragicevic"]
+	path = vjezba-7-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-7-tina-dragicevic.git
+[submodule "vjezba-8-tina-dragicevic"]
+	path = vjezba-8-tina-dragicevic
+	url = git@github.com:C-programiranje/vjezba-8-tina-dragicevic.git
