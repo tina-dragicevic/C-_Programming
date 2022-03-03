@@ -1,2 +1,2 @@
-# C-_Programming
+# C Sharp Programming
 Simple C# assignments 
